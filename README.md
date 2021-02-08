@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning all requirements needed for Web Development and UI/UX Design
 - 📫 Reach me on my Personal CV https://daffrazan.github.io/ and navigate to Contact Page
 - 😄 I speak Indonesian and English 
+
+[![DaffaRazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaffRazan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
