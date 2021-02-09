@@ -7,5 +7,5 @@
 - 📫 Reach me on my Personal CV https://daffrazan.github.io/ and navigate to Contact Page
 - 😄 I speak Indonesian and English 
 
-[![DaffaRazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaffRazan&show_icons=true&theme=dark)]
+![DaffaRazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaffRazan&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaffRazan&theme=radical)
