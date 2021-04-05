@@ -2,9 +2,9 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=DaffRazan)
 
-- 🔭 I’m final year Informatics Student
-- 🌱 I’m currently learning all requirements needed for Web Development and UI/UX Design
-- 📫 Reach me on my Personal CV https://daffrazan.github.io/ and navigate to Contact Page
+- 🔭 Final year Informatics Student
+- 🌱 Web & Android development enthusiast
+- 📫 Reach me on my web portfolio https://daffrazan.github.io/
 - 😄 I speak Indonesian and English 
 
 ![DaffaRazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaffRazan&show_icons=true&theme=dark)
