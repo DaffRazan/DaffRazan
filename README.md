@@ -2,10 +2,10 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=DaffRazan)
 
-I'm a Mobile Developer who loves to create useful apps for everyone. I've enjoyed creating Android Native app using Kotlin and Multiplatform app using Flutter that running smoothly on Android, iOS (Coming soon if i have a Macbook), and Web. Besides, i also build web apps using Laravel/Code Igniter framework.
+I'm a passionate Mobile Developer who loves to create useful apps for everyone. Focusing on Flutter (Multiplatform app) and Kotlin (Android native app). Besides, i also build web apps using Laravel/Code Igniter framework.
 
 - 🔭 I'm final year Informatics Student and looking for side job
-- 🌱 I'm currently learning about advanced Kotlin and Flutter development
+- 🌱 I'm currently focusing Flutter/Kotlin to build awesome mobile apps
 - 📬 Feel free to reach me on my social media
 - 😄 I speak Indonesian and English 
 
