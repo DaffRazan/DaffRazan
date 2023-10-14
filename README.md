@@ -2,8 +2,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=DaffRazan)
 
-I'm a passionate mobile developer who loves to create useful apps. <br>
-Focusing on Flutter (Multiplatform app) and Kotlin (Android native app).
+Experienced Mobile (Flutter) Engineer 🚀 🎯 📱
 
 ### Let's get in touch
 [<img align="left" alt="DaffRazan | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />][website]
