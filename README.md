@@ -2,7 +2,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=DaffRazan)
 
-Experienced Mobile (Flutter) Engineer 🚀 🎯 📱
+2.5+ YoE Mobile (Flutter) Engineer 🚀 🎯 📱
 
 ### Let's get in touch
 [<img align="left" alt="DaffRazan | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />][website]
