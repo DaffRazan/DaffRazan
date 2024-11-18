@@ -17,4 +17,4 @@
 
 <br/>
 
-[website]: https://daffrazan.github.io/](https://daffrazan.github.io/daff-cv-2024
+[website]: https://daffrazan.github.io/daff-cv-2024/
